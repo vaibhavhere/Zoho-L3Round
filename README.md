@@ -5,9 +5,9 @@
 <b>Idea:</b><br>
 <ul>
 <li>4 core subjects- each core subjects repeats 4 times a week. Hence, 16 core subject slots.</li>
-<li>3 non-core subjects- each non core subject repetas 3 times a week, Hence 9 non-core subjects slots.</li>
-<li>Total 16+9=25 sots. Consgtraint satisfied.</li>
-  <li>It is a Fully Menu directed console application, that makes calls to modular function based on the choice from the user.<li>
+<li>3 non-core subjects- each non core subject repeats 3 times a week, Hence 9 non-core subjects slots.</li>
+<li>Total <b>16+9=25 slots<b> (5 days*5 periods per day =25). Constraint satisfied.</li>
+  <li>It is a Fully Menu directed console application, that makes calls to modular function based on the choice from the user.</li>
 </ul>
 <br>
 <b>Features Added:</b><br>
