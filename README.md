@@ -1,5 +1,5 @@
 # Zoho-L3Round
-<b>Question:</b> Make a TimeTbale Application with the constraints that there are 4 core subjects, 3 non-core subjects. A week has 5 days and 5 slots each day.
+<b>Question:</b> Make a TimeTable Application with the constraints that there are 4 core subjects, 3 non-core subjects. A week has 5 days and 5 slots each day.
 <br>
 <br>
 <b>Idea:</b><br>
